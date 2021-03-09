@@ -1,0 +1,110 @@
+
+img{
+	max-width:100%; 
+}
+.big{
+    font-size:30px;
+}
+.btn{
+	vertical-align: top;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: serif;
+    font-weight: bold;
+}
+.bg-lightgrey{
+    background-image: lightgrey;
+}
+.bb-lightgrey{
+    border-bottom: 1px solid lightgrey;
+}
+.br-lightgrey{
+    border-right: 1px solid lightgrey;
+}
+.bl-lightgrey{
+    border-left: 1px solid lightgrey;
+}
+.bt-lightgrey{
+    border-top: 1px dashed lightgrey;
+}
+.brad-27{
+    border-radius: 27px;
+}
+.white{
+    color:white;
+}
+.black{
+    color: black;
+}
+.pink{
+    color: pink;
+}
+._150x45{
+    width: 150px;
+    height: 45px;
+}
+._236x71{
+    width: 236px;
+    height: 71px;
+}
+.h-570px{
+    height: 570px;
+}
+.h-250px{
+    height: 250px;
+}
+.va-25{
+    vertical-align: 25%;
+}
+.w-90-ml-5{
+    width: 90%;
+    margin-left: 5%;
+}
+.va-30{
+    vertical-align: 30%;
+}
+.va-35{
+    vertical-align: 35%;
+}
+.va-50{
+    vertical-align: 50%;
+}
+.h-20p{
+    height: 20%;
+}
+.h-420{
+    height: 420px;
+}
+.pos-a{
+    position: absolute;
+}
+.pos-r{
+    position: relative;
+}
+.top-40{
+    top:40%;
+}
+.top-25{
+    top: 25%;
+}
+.top-0{
+    top: 0;
+}
+.p10v{
+    padding: 10px 0px;
+}
+.p15v{
+padding: 15px 0px;
+}
+.inputs{
+    border:none;
+    border-bottom: 1px solid black;
+    outline: none;
+    width: 90%;
+}
+.fs-14{
+    font-size: 14px;
+}
+.fs-12{
+    font-size: 12px;
+}
